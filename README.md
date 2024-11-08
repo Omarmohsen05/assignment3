@@ -1,5 +1,8 @@
 # assignment_3
-# assignment_3
+
+To run the code do this:
+1) g++ main.cpp queue.h -o main
+2) ./main
 
 /*
 README Comments for main.cpp
